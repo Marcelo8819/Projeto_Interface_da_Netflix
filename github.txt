@@ -1,0 +1,7 @@
+git init
+
+git status enter 
+
+git add ""
+
+git add . 
