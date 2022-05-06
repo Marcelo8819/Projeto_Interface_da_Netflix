@@ -1,7 +1,14 @@
-git init
+git init enter cria um arquivo git dentro da pasta que 
+pretendo adicionar no repositório.
 
-git status enter 
+git status enter verifica os status do repositório
 
-git add ""
+git add "" adiciona um arquivo por vez 
 
-git add . 
+git add .  adiciona vários arquivos de uma vez
+
+criar um novo repositório no github para poder 
+fazer o comando git remote add origin url
+
+git push adiciona os arquivos no repositório
+
